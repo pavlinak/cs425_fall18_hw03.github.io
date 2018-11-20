@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding='UTF-8'?>
+<questions>
+<question_level lever="E" points="10">
+	<question_item>
+        	<question>Who embodies the role of Tony Stark/ The Iron Man?</question>
+        	<answer>Robert Downey Jr</answer>
+        	<answer>Mark Ruffalo</answer>
+        	<answer>Tom Hiddleston</answer>
+        	<answer>Jeremy Renner</answer>
+		<correct>a</correct>
+	</question_item>
+	<question_item>
+        	<question>Who stole the Power Stone?</question>
+        	<answer>Drax the Destroyer</answer>
+			<answer >Star-Lord</answer>
+        	<answer>Ronan the Accuser</answer>
+        	<answer>Rocket Raccoon</answer>
+		<correct>b</correct>
+	</question_item>	
+	<question_item>
+        	<question>What is the name of Black Panther's home?</question>
+        	<answer>Khokarsa</answer>
+			<answer>Wakanda</answer>
+        	<answer>T'Challa</answer>
+        	<answer>Wakkonda</answer>
+		<correct>b</correct>
+	</question_item>	
+	<question_item>
+        	<question>Which Avenger was noticeably absent from the posters?</question>
+        	<answer>Black Widow</answer>
+        	<answer>Falcon</answer>
+        	<answer>Loki</answer>
+			<answer>Hawkeye</answer>
+		<correct>d</correct>
+	</question_item>	
+	<question_item>
+        	<question>What is the name of Captain America's fugitive team?</question>
+			<answer>Secret Avengers</answer>
+        	<answer>Fugitive Avengers</answer>
+        	<answer>Mystique Avengers</answer>
+        	<answer>Hidden Avengers</answer>
+		<correct>a</correct>
+	</question_item>	
+	<question_item>
+        	<question>Which two stones does Thanos have in the Infinity War trailer?</question>
+        	<answer>Soul, Time</answer>
+        	<answer>Space, Time</answer>
+			<answer>Space, Power</answer>
+        	<answer>Mind, Soul</answer>
+		<correct>c</correct>
+	</question_item>
+	<question_item>
+        	<question>What are the six colours of the Infinity Stones?</question>
+        	<answer>Blue, Yellow, Red, Pink, Green, Orange</answer>
+        	<answer>Blue, Yellow, Red, Purple, Green, Pink</answer>
+        	<answer>Blue, Yellow, Red, White, Green, Purple</answer>
+			<answer>Blue, Yellow, Red, Purple, Green, Orange</answer>
+		<correct>d</correct>
+	</question_item>
+	<question_item>
+        	<question>What is Spider-Man's new nickname thanks to his updated suit?</question>
+        	<answer>Armored Spider</answer>
+			<answer>Iron Spider</answer>
+        	<answer>Super Spider</answer>
+        	<answer>Stark Spider</answer>
+		<correct>b</correct>
+	</question_item>
+	<question_item>
+        	<question>Which is the final stone to be revealed?</question>
+			<answer>Soul Stone</answer>
+        	<answer>Spirit Stone</answer>
+        	<answer>Heart Stone</answer>
+        	<answer>Universe Stone</answer>
+		<correct>a</correct>
+	</question_item>
+	<question_item>
+        	<question>Who is the newest member of the Guardians?</question>
+        	<answer>Styx</answer>
+        	<answer>Wasp</answer>
+        	<answer>Ant</answer>
+			<answer>Mantis</answer>
+		<correct>d</correct>
+	</question_item>
+	<question_item>
+        	<question>Who is Gamora's 'sister'?</question>
+			<answer>Nebula</answer>
+        	<answer>Aurora</answer>
+        	<answer>Astra</answer>
+        	<answer>Destroyer</answer>
+		<correct>a</correct>
+	</question_item>
+	<question_item>
+        	<question>How did Thor lose his eye?</question>
+        	<answer>Fighting Thanos</answer>
+        	<answer>Fighting Loki</answer>
+			<answer>Fighting Hela</answer>
+        	<answer>Fighting Hulk</answer>
+		<correct>c</correct>
+	</question_item>
+	<question_item>
+        	<question>Who has reversed Bucky's brainwashing?</question>
+        	<answer>Toni Stark</answer>
+			<answer>Shuri</answer>
+        	<answer>Peter Parker</answer>
+        	<answer>Sorcerer Supreme</answer>
+		<correct>b</correct>
+	</question_item>
+	<question_item>
+        	<question>In the comics, who is Thanos in love with?</question>
+        	<answer>Black Widow</answer>
+        	<answer>Scarlet Witch</answer>
+			<answer>Mistress Death</answer>
+        	<answer>Gamora</answer>
+		<correct>c</correct>
+	</question_item>
+	<question_item>
+        	<question>Where is it likely that the final Infinity Stone can be found?</question>
+			<answer>Wakanda</answer>
+        	<answer>New York</answer>
+        	<answer>Xandar</answer>
+        	<answer>Knowhere</answer>
+		<correct>a</correct>
+	</question_item>
+	<question_item>
+        	<question>Who is the strongest Avenger, according to Stark's Quinjet?</question>
+			<answer>Hulk</answer>
+        	<answer>Thor</answer>
+        	<answer>Hawkeye</answer>
+        	<answer>Iron Man</answer>
+		<correct>a</correct>
+	</question_item>
+	<question_item>
+        	<question>Which planet was Thanos born on?</question>
+        	<answer>Xander</answer>
+			<answer>Titan</answer>
+        	<answer>Mogo</answer>
+        	<answer>Battleworld</answer>
+		<correct>b</correct>
+	</question_item>
+	<question_item>
+        	<question>Which movie launched the Marvel Cinematic Universe?</question>
+        	<answer>Thor</answer>
+        	<answer>The Hulk</answer>
+			<answer>Iron Man</answer>
+        	<answer>Ant-Man</answer>
+		<correct>c</correct>
+	</question_item>
+	<question_item>
+        	<question>What are the guards of the Black Panther called?</question>
+        	<answer>Weapon X</answer>
+        	<answer>Wakandan Troopers</answer>
+        	<answer>Panther Corps</answer>
+			<answer>Dora Milaje</answer>
+		<correct>d</correct>
+	</question_item>
+	<question_item>
+        	<question>Which android did Tony Stark create?</question>
+			<answer>Ultron</answer>
+        	<answer>JARVIS</answer>
+        	<answer>Connor</answer>
+        	<answer>Vision</answer>
+		<correct>a</correct>
+	</question_item>
+	<question_item>
+        	<question>What kind of food did the Avengers eat after the Battle of New York?</question>
+        	<answer>Burgers</answer>
+        	<answer>Pizza</answer>
+        	<answer>Hot-Dogs</answer>
+			<answer>Shawarma</answer>
+		<correct>d</correct>
+	</question_item>
+	<question_item>
+        	<question>What is the name of the pendant that houses the Time Stone?</question>
+        	<answer>The Great Green Eye</answer>
+			<answer>The Eye of Agamotto</answer>
+        	<answer>The Eye of Time</answer>
+        	<answer>The Immortal Eye</answer>
+		<correct>b</correct>
+	</question_item>
+	<question_item>
+        	<question>When did Thanos first appear in a post-credits scene?</question>
+        	<answer>The Avengers: Age of Ultron</answer>
+			<answer>The Avengers</answer>
+        	<answer>Captain America: Civil War</answer>
+        	<answer>The Avengers: Infinity War</answer>
+		<correct>b</correct>
+	</question_item>
+	<question_item>
+        	<question>Which hero is capable of holding a stone?</question>
+        	<answer>Black Panther</answer>
+        	<answer>Doctor Strange</answer>
+			<answer>Peter Quill</answer>
+        	<answer>Gamora</answer>
+		<correct>c</correct>
+	</question_item>
+	<question_item>
+        	<question>Which hero secretly has a family?</question>
+			<answer>Hawkeye</answer>
+        	<answer>Black Widow</answer>
+        	<answer>Tony Stark</answer>
+        	<answer>Bruce Banner</answer>
+		<correct>a</correct>
+	</question_item>
+</question_level>
+<question_level lever="M" points="20">
+	<question_item>
+        	<question>Which hero was crippled in Civil War?</question>
+        	<answer>Black Widow</answer>
+			<answer>War Machine</answer>
+        	<answer>Black Panther</answer>
+        	<answer>Hawkeye</answer>
+		<correct>b</correct>
+	</question_item>
+	<question_item>
+        	<question>Who killed Tony Stark's parents?</question>
+        	<answer>War Machine</answer>
+        	<answer>Sam Wilson</answer>
+        	<answer>Black Widow</answer>
+			<answer>Bucky Barnes</answer>
+		<correct>d</correct>
+	</question_item>
+	<question_item>
+        	<question>What's the name of Doctor Strange's sidekick?</question>
+        	<answer>Flyer</answer>
+        	<answer>Khalid</answer>
+			<answer>Wong</answer>
+        	<answer>Tamir</answer>
+		<correct>c</correct>
+	</question_item>
+	<question_item>
+        	<question>Which film does the Reality Stone first appear in?</question>
+			<answer>Thor: The Dark World</answer>
+        	<answer>Guardians of the Galaxy</answer>
+        	<answer>Captain America: Civil War</answer>
+        	<answer>Black Panther</answer>
+		<correct>a</correct>
+	</question_item>
+	<question_item>
+        	<question>Which Marvel Cinematic Universe movie featured Spider-Man’s first appearance?</question>
+			<answer>Captain America: Civil War</answer>
+        	<answer>Spider-Man: Homecoming</answer>
+        	<answer>Iron Man 3</answer>
+        	<answer>Avengers: Age of Ultron</answer>
+		<correct>a</correct>
+	</question_item>
+	<question_item>
+        	<question>What does Stark Industries manufacture in Iron Man 1?</question>
+        	<answer>Machines</answer>
+        	<answer>Buildings</answer>
+			<answer>Weapons</answer>
+        	<answer>Robots</answer>
+		<correct>c</correct>
+	</question_item>
+	<question_item>
+        	<question>Who played the Hulk before Mark Ruffalo?</question>
+        	<answer>Gary Oldman</answer>
+			<answer>Edward Norton</answer>
+        	<answer>Liv Tyler</answer>
+        	<answer>Tim Roth</answer>
+		<correct>b</correct>
+	</question_item>
+	<question_item>
+        	<question>Which war did Captain America fight in?</question>
+        	<answer>World War I</answer>
+        	<answer>American Revolutionary War</answer>
+        	<answer>American Civil War</answer>
+			<answer>World War II</answer>
+		<correct>d</correct>
+	</question_item>
+	<question_item>
+        	<question>What is the name of Thor’s hammer?</question>
+        	<answer>Aesir</answer>
+			<answer>Mjolnir</answer>
+        	<answer>Vanir</answer>
+        	<answer>Balder</answer>
+		<correct>b</correct>
+	</question_item>
+	<question_item>
+        	<question>What Nazi organization infiltrated SHIELD?</question>
+			<answer>HYDRA</answer>
+        	<answer>CHIMERA</answer>
+        	<answer>EMPUSA</answer>
+        	<answer>SPHINX</answer>
+		<correct>a</correct>
+	</question_item>
+	<question_item>
+        	<question>Who is Thor’s father?</question>
+			<answer>Odin</answer>
+        	<answer>Korg</answer>
+        	<answer>Loki</answer>
+        	<answer>Hela</answer>
+		<correct>a</correct>
+	</question_item>
+	<question_item>
+        	<question>Where did Scott Lang work before becoming Ant-Man?</question>
+        	<answer>Chipotle</answer>
+        	<answer>Jamba Juice</answer>
+        	<answer>McDonald's</answer>
+			<answer>Baskin Robbins</answer>
+		<correct>d</correct>
+	</question_item>
+	<question_item>
+        	<question>Who is the main villain in Spider-Man: Homecoming?</question>
+        	<answer>Venom</answer>
+        	<answer>Kraven</answer>
+			<answer>Vulture</answer>
+        	<answer>Mysterio</answer>
+		<correct>c</correct>
+	</question_item>
+	<question_item>
+        	<question>Which of these movies came first?</question>
+        	<answer>Captain America: Civil War</answer>
+        	<answer>Doctor Strange</answer>
+			<answer>Ant-Man</answer>
+        	<answer>Guardians of the Galaxy Vol. 2</answer>
+		<correct>c</correct>
+	</question_item>
+	<question_item>
+        	<question>Who has the Infinity Gauntlet?</question>
+        	<answer>T'Challa</answer>
+        	<answer>Loki</answer>
+        	<answer>Odin</answer>
+			<answer>Thanos</answer>
+		<correct>d</correct>
+	</question_item>
+	<question_item>
+        	<question>Who opposed Captain America in Civil War?</question>
+        	<answer>Hwakeye</answer>
+			<answer>Iron Man</answer>
+        	<answer>Thor</answer>
+        	<answer>Black Widow</answer>
+		<correct>b</correct>
+	</question_item>
+	<question_item>
+        	<question>Which planet are Thor and the Hulk on in Thor: Ragnarok?</question>
+        	<answer>Knowhere</answer>
+        	<answer>Asgard</answer>
+        	<answer>Xandar</answer>
+			<answer>Sakaar</answer>
+		<correct>d</correct>
+	</question_item>
+	<question_item>
+        	<question>Who was the main villain in Ant-Man?</question>
+        	<answer>Galactus</answer>
+        	<answer>The Wasp</answer>
+			<answer>Yellowjacket</answer>
+        	<answer>Red Skull</answer>
+		<correct>c</correct>
+	</question_item>
+	<question_item>
+        	<question>Who plays Nick Fury?</question>
+			<answer>Samuel L. Jackson</answer>
+        	<answer>Morgan Freeman</answer>
+        	<answer>Laurence Fishburne</answer>
+        	<answer>Denzel Washington</answer>
+		<correct>a</correct>
+	</question_item>
+	<question_item>
+        	<question>How many standalone Iron Man movies are there?</question>
+			<answer>Three</answer>
+        	<answer>Two</answer>
+        	<answer>Four</answer>
+        	<answer>Five</answer>
+		<correct>a</correct>
+	</question_item>
+	<question_item>
+        	<question>Where does Steve Rogers realize he’s in the 21st century?</question>
+        	<answer>Empire State Building</answer>
+        	<answer>Baxter Building</answer>
+        	<answer>Wall Street</answer>
+			<answer>Times Square</answer>
+		<correct>d</correct>
+	</question_item>
+	<question_item>
+        	<question>When did Black Widow first appear?</question>
+        	<answer>Iron Man 2</answer>
+			<answer>Iron Man</answer>
+        	<answer>Avengers</answer>
+        	<answer>Thor</answer>
+		<correct>a</correct>
+	</question_item>
+	<question_item>
+        	<question>Who was the Winter Soldier?</question>
+        	<answer>Agent Ramlow</answer>
+			<answer>Red Skull</answer>
+        	<answer>Bucky Barnes</answer>
+        	<answer>Yellowjacket</answer>
+		<correct>c</correct>
+	</question_item>
+	<question_item>
+        	<question>Who created Captain America's shield?</question>
+        	<answer>Howard Stark</answer>
+			<answer>Dr Arnim Zola</answer>
+        	<answer>Dr Abraham Erskine</answer>
+        	<answer>Lenon Awad</answer>
+		<correct>a</correct>
+	</question_item>
+	<question_item>
+        	<question>Where were Stark Industries' weapons being sold to?</question>
+        	<answer>LexCorp</answer>
+			<answer>HYDRA</answer>
+        	<answer>S.H.I.E.L.D.</answer>
+        	<answer>The Ten Rings</answer>
+		<correct>d</correct>
+	</question_item>
+</question_level>
+<question_level lever="H" points="30">
+	<question_item>
+        	<question>What is Abomination?</question>
+        	<answer>An evolved form of the Hulk</answer>
+			<answer>A mutated General Ross</answer>
+        	<answer>An evolved form of Thanos</answer>
+        	<answer>A mutated Emil Blonsky</answer>
+		<correct>d</correct>
+	</question_item>
+	<question_item>
+        	<question>Which realm was Loki originally born in?</question>
+        	<answer>Knowhere</answer>
+			<answer>Earth</answer>
+        	<answer>Asgard</answer>
+        	<answer>Jotunheim</answer>
+		<correct>d</correct>
+	</question_item>
+	<question_item>
+        	<question>Which villain did the Avengers fight when they were first assembled?</question>
+        	<answer>Red Skull</answer>
+			<answer>Ultron</answer>
+        	<answer>Loki</answer>
+        	<answer>Crossbones</answer>
+		<correct>c</correct>
+	</question_item>
+	<question_item>
+        	<question>How many Infinity Stones are there?</question>
+        	<answer>Five</answer>
+			<answer>Six</answer>
+        	<answer>Seven</answer>
+        	<answer>Eight</answer>
+		<correct>b</correct>
+	</question_item>
+	<question_item>
+        	<question>Why did the Dark Elves target Jane Foster?</question>
+        	<answer>Because she had the Tessaract</answer>
+			<answer>Because she had the Aether</answer>
+        	<answer>Because she was Thor's lover</answer>
+        	<answer>Because she was the leader of Avengers</answer>
+		<correct>b</correct>
+	</question_item>
+	<question_item>
+        	<question>What was Sam Wilson's occupation before he became Falcon?</question>
+        	<answer>A military officer</answer>
+			<answer>An Assassin</answer>
+        	<answer>A super-soldier</answer>
+        	<answer>A pararescueman</answer>
+		<correct>d</correct>
+	</question_item>
+	<question_item>
+        	<question>Which members of the Avengers were in a romantic relationship?</question>
+        	<answer>Black Widow and Hawkeye</answer>
+			<answer>Black Widow and Hulk</answer>
+        	<answer>Black Widow and Iron Man</answer>
+        	<answer>Black Widow and Captain America</answer>
+		<correct>b</correct>
+	</question_item>
+	<question_item>
+        	<question>What is Vision?</question>
+        	<answer>God</answer>
+			<answer>Super-soldier</answer>
+        	<answer>Inhuman</answer>
+        	<answer>Android</answer>
+		<correct>d</correct>
+	</question_item>
+	<question_item>
+        	<question>Which villain wanted the orb Peter Quill stole?</question>
+        	<answer>Thanos</answer>
+			<answer>Loki</answer>
+        	<answer>Ego</answer>
+        	<answer>Ronan</answer>
+		<correct>d</correct>
+	</question_item>
+	<question_item>
+        	<question>What law did the UN enforce upon the Avengers?</question>
+        	<answer>The Petras Act</answer>
+			<answer>The Sokovia Accords</answer>
+        	<answer>The Superhero Relocation Program</answer>
+        	<answer>The Mutant Registration Act</answer>
+		<correct>b</correct>
+	</question_item>
+	<question_item>
+        	<question>Who did Spider-Man team up with?</question>
+        	<answer>Captain America</answer>
+			<answer>Thor</answer>
+        	<answer>Iron Man</answer>
+        	<answer>Hawkeye</answer>
+		<correct>c</correct>
+	</question_item>
+	<question_item>
+        	<question>Why was the Ancient One immortal?</question>
+        	<answer>She drew power from the Dark Dimension</answer>
+			<answer>She used the Eye of Agamotto</answer>
+        	<answer>She was a God in human form</answer>
+        	<answer>She was a being similar to Ego</answer>
+		<correct>a</correct>
+	</question_item>
+	<question_item>
+        	<question>How did Doctor Strange defeat Dormammu?</question>
+        	<answer>With a magic cloak</answer>
+			<answer>With a time loop</answer>
+        	<answer>With the Ancient One's help</answer>
+        	<answer>With Thor’s help</answer>
+		<correct>b</correct>
+	</question_item>
+	<question_item>
+        	<question>What were Mantis' powers?</question>
+        	<answer>Telepathy</answer>
+			<answer>Telekinesis</answer>
+        	<answer>Empathy</answer>
+        	<answer>Invisibility</answer>
+		<correct>c</correct>
+	</question_item>
+	<question_item>
+        	<question>Which alien technology was the Vulture selling to street criminals?</question>
+        	<answer>Chitauri</answer>
+			<answer>Sovereign</answer>
+        	<answer>Skrull</answer>
+        	<answer>Kree</answer>
+		<correct>a</correct>
+	</question_item>
+	<question_item>
+        	<question>Who was Odin's first child?</question>
+        	<answer>Thor</answer>
+			<answer>Loki</answer>
+        	<answer>Hela</answer>
+        	<answer>Sif</answer>
+		<correct>c</correct>
+	</question_item>
+	<question_item>
+        	<question>What was Scrapper 142's origin?</question>
+        	<answer>She was a God</answer>
+			<answer>She was one of the Warriors Three</answer>
+        	<answer>She was a Demigod</answer>
+        	<answer>She was a Valkyrie</answer>
+		<correct>d</correct>
+	</question_item>
+	<question_item>
+        	<question>Who was Killmonger?</question>
+        	<answer>A Hydra agent</answer>
+			<answer>A Winter Soldier</answer>
+        	<answer>N'Jobu's son Erik</answer>
+        	<answer>T'challa's son Rick</answer>
+		<correct>c</correct>
+	</question_item>
+	<question_item>
+        	<question>Which Avenger does Thor team up with in Thor: Ragnarok?</question>
+        	<answer>Hulk</answer>
+			<answer>Hawkeye</answer>
+        	<answer>Iron Man</answer>
+        	<answer>Captain America</answer>
+		<correct>a</correct>
+	</question_item>
+	<question_item>
+        	<question>In which film did Hawkeye first appear?</question>
+        	<answer>Iron Man 1</answer>
+			<answer>Thor</answer>
+        	<answer>Iron Man 2</answer>
+        	<answer>Captain America</answer>
+		<correct>b</correct>
+	</question_item>
+	<question_item>
+        	<question>What is the Falcon’s real name?</question>
+        	<answer>Sam Wilson</answer>
+			<answer>Elijah Bradley</answer>
+        	<answer>Alex Kavinsky</answer>
+        	<answer>Johnathan Ray</answer>
+		<correct>a</correct>
+	</question_item>
+	<question_item>
+        	<question>What fictional alien metal gives the Wakandans their power?</question>
+        	<answer>Adamantium</answer>
+			<answer>Unobtainium</answer>
+        	<answer>Vibranium</answer>
+        	<answer>Coranium</answer>
+		<correct>c</correct>
+	</question_item>
+	<question_item>
+        	<question>Which of these is not a member of the Guardians of the Galaxy?</question>
+        	<answer>Star Lord</answer>
+			<answer>Groot</answer>
+        	<answer>Ronan</answer>
+        	<answer>Gamora</answer>
+		<correct>c</correct>
+	</question_item>
+	<question_item>
+        	<question>What is Ant Man’s real name?</question>
+        	<answer>Clinton Barton</answer>
+			<answer>Peter Quill</answer>
+        	<answer>Howard Stark</answer>
+        	<answer>Scott Lang</answer>
+		<correct>d</correct>
+	</question_item>
+	<question_item>
+        	<question>What is the name of the alien race Loki teams up with in Avengers Assemble?</question>
+        	<answer>The Kree</answer>
+			<answer>The Chitauri</answer>
+        	<answer>The Skrulls</answer>
+        	<answer>The Yawrs</answer>
+		<correct>b</correct>
+	</question_item>
+</question_level>
+</questions>

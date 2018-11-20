@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css?family=Allerta+Stencil');
+* {
+    font-family: 'Allerta Stencil', 'Verdana', sans-serif;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background-color: #EEE;
+    color: #333;
+    padding-top: 50px;
+    margin: 0px;
+}
+
+button {
+    margin: 0 auto;
+}
+
+nav {
+    padding: 0px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+}
+
+form {
+    padding: 40px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+.margin-0 {
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.padding-top-bottom {
+    padding-top: 50px !important;
+    padding-bottom: 50px !important;
+}
+
+.clear::after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+
+.my-btn {
+    background: #880e4fb7;
+    color: white;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    padding: 15px;
+    border-radius: 10px;
+    z-index: 99;
+    border: none;
+    cursor: pointer;
+}
+
+.my-btn:hover {
+    background-color: #880e4f;
+}
+
+.center-elements {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+input[type=submit] {
+    background-color: #630b3a;
+    color: white;
+    border: none;
+    padding: 20px 36px;
+    margin: 8px 6px;
+    cursor: pointer;
+}
+
+@media (max-width: 768px) {
+    .container {
+        width: auto;
+        padding-left: 10px;
+        padding-right: 10px;
+        margin: 0px;
+    }
+
+    form {
+        width:auto;
+        padding: 20px;
+    }
+
+    header, footer {
+        width: auto;
+    }
+
+    #page-footer {
+        position: relative;
+        margin-bottom: 0%;
+    }
+}
